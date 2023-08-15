@@ -1,0 +1,8 @@
+1.  Search in row-wise and column-wise sorted array
+2.  median of a row-wise sorted array
+4.  Sum of upper and lower triangles
+5.  determinant of a matrix
+6.  exchange matrix columns
+7.  search in a row-column sorted matrix
+8.  boolean matrix
+9.  make matrix beautiful

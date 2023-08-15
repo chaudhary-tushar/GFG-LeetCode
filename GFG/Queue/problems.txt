@@ -1,0 +1,4 @@
+1.  Queue using two Stacks.
+2.  Generate Binary numbers.
+3.  reverse First k elements of Queue.
+4.  Circular tour.

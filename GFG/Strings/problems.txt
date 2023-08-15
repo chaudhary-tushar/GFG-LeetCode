@@ -1,0 +1,22 @@
+1.  Check if string are rotations.
+2.  Lexicographic Rank of a string.
+3.  Longest substring.
+4.  Vowels in a string.
+5.  Distinct pattern search.
+6.  Binary string.
+7.  implement strstr.
+8.  Check if string is rotated by two places.
+9.  String validation. 
+10. isomorphic string.
+11. Panagram checking.
+12. Check if a string is an isogram or not.
+13. Missing characters in a panagram.
+14. Keypad typing.
+15. Repeating character.
+16. Sum of numbers in a string.
+17. Minimum indexed word.
+18. Smallest window in a string.
+19. Nth number made of prime digits.
+20. Rabin karp.
+21. KMP.
+22. Check if a string is a subsequence of other or not.

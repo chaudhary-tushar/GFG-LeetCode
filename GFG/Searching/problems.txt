@@ -1,0 +1,13 @@
+1.  Two Pointer approach.
+2.  Majority Element.
+3.  Floor in a sorted array.
+4.  Minimum number in a sorted and rotated array.
+5.  Two repeated elements.
+6.  Roof top.
+7.  Maximum water between two buildings.
+8.  Smallest positive missing number.
+9.  count only repeated element.
+10. Count more than n/k Occurnences.
+11. Allocate Pages.
+12. Subarray with given Sum.
+13. median of two sorted arrays**

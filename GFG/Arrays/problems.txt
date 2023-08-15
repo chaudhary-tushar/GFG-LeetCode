@@ -1,0 +1,27 @@
+1. try out window sliding problem:-
+    a. N-bonacci numbers ,print first m N-bonacci numbers
+        i/p  n=3 ,m=8
+        o/p  0 0 1 1 2 4 7 13
+        i/p  n=4 , m=10
+        o/p  0 0 0 1 1 2 4 8 15 29
+    b. Count distinct elements in every window of size k
+        i/p = {1,2,1,3,4,3,3} , k=4
+        o/p = 3 4 3 2
+2. Try out the prefix sum techniques at the last of the chapter
+
+3.  Mean and Median Of the array
+4.  Majority elements 
+5.  Strongest neighnour
+6.  Reverse in groups
+7.  Minimum adjacent difference in a circlular array
+8.  Maximum occured integer 
+9.  Wave array
+10. Frequencies of limited range elements.
+11. Equilibrium point
+12. Smallest positive missing numbers
+13. Rearrange array alternatively
+14. Rearrange array with O(1) extra space
+15. Maximum index
+16. Check if array is sorted and rotated
+17. Kadane's algorithm
+18. Max circular subarray sum

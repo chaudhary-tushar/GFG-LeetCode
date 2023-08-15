@@ -1,0 +1,10 @@
+1.  Clone LinkedList using Random pointers.
+2.  LRU Cache design.
+3.  Palindrome list check
+4.  Removes duplikates from unsorted linkedlist.
+5.  Swap kth nodes from end.
+6.  Find length of Loop.
+7.  Rotate a linked list.
+8.  Add two numbers represented by linked  list.
+9.  Mergesort for linked list.
+10. Merge k sorted Linked list.

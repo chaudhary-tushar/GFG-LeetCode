@@ -1,0 +1,5 @@
+1.  Merge K arr.
+2.  Find median of a stream.
+3.  K most occuring element.
+4.  Minimum cost of ropes.
+5.  Rearrange characters.

@@ -1,0 +1,6 @@
+1.  K-stacks in an array.
+2.  Implement getMin() in O(1)
+3.  Get min at pop().
+4.  Delete middle of a stack.
+5.  The celebrity Problem.
+6.  Maximum of Minimum of every window size.

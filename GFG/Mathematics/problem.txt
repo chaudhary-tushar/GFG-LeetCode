@@ -1,0 +1,7 @@
+1.  Quadratic Equation roots
+2.  Digits in a factorial
+3.  GP term
+4.  Primaity Test
+5.  Exactly 3 divisors
+6.  Addition/Multiplication under Modulo
+7.  Modular multiplicatve inverse

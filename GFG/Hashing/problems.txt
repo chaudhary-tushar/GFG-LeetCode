@@ -1,0 +1,11 @@
+1.  More than n/k occurences
+2.  Print non-repeated Elements
+3.  First repeating element
+4.  Hashing for pair
+5.  Check if two arrays are equal or not
+6.  Numbers containing 1 2 or  3
+7.  Winner of election
+8.  Positive negative pair
+9.  Sort an array according to other array
+10. Sorting elements of an arry by frequencies.
+11. Longest Consecutive Subsequence.

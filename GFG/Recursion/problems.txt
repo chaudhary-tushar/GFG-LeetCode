@@ -1,0 +1,5 @@
+1.  Digital root
+2.  Josephus Problem
+3.  Lucky Numbers
+4.  Power of numbers
+5.  Possible Words from Phone digits

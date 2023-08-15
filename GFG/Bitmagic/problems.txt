@@ -1,0 +1,9 @@
+1.  Two odd appearing
+2.  Bit difference
+3.  Number is sparse or not 
+4.  Binary to Gray code
+5.  Gray to Binary code
+6.  Swap all even bits
+8.  Maximum AND value
+
+

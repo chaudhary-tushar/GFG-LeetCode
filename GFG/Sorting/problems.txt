@@ -1,0 +1,12 @@
+1.  Chocolate distribution problem.
+2.  Meeting maximum guests.
+3.  Merge overlapping intervals.
+4.  Count inversions.
+5.  Count the number of possible trialngles.
+6.  Find triplets with 0 sum.
+7.  sort by Absolute difference.
+8.  Numbers of Pairs
+9.  Merge without extra space.
+10. Merge three sorted array.
+11. Closer to sort.
+12. Minimum Platforms.
